@@ -11,4 +11,4 @@ Inspired by Colt steele, November 2019
 
 ![alt text](https://i.imgur.com/NikPmJu.png)
 
-![Deployed on Netlify](https://suspicious-shaw-02cb19.netlify.com/)
+[Deployed on Netlify](https://suspicious-shaw-02cb19.netlify.com/)
